@@ -1,0 +1,9 @@
+target/
+project/project/
+project/target/
+.bloop/
+.bsp/
+.metals/
+*.class
+*.log
+good-game-database*
